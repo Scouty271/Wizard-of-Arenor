@@ -5,15 +5,10 @@ This project is a 2D tilemap-based game where players can shoot fireballs, defea
 Features:
 
 Tilemap-based world: Explore a procedurally generated 2D world with a grid-based layout.
-
 Fireball shooting: Use fireballs as your primary attack to defeat enemies and interact with the environment.
-
 Enemy portals: Fight against enemies that spawn from randomly placed portals across the map.
-
 Building system: Collect resources and build structures to help defend against enemies or modify the landscape.
-
 Dynamic gameplay: Engage in both combat and strategic building as you navigate through the world.
-
 
 Technologies:
 
