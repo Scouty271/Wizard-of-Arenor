@@ -19,10 +19,3 @@ Explore the map and gather resources.
 Build structures to fortify your defenses or enhance your abilities.
 Defeat enemies that spawn from portals using fireballs and strategic positioning.
 Build, fight, and survive in an ever-changing world!
-
-
-How to run:
-Clone the repository.
-Install dependencies (if any).
-Run the game from your preferred development environment.
-Contributions are welcome! Feel free to submit issues or pull requests.
